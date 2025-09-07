@@ -79,4 +79,3 @@ This analysis highlights opportunities to enhance revenue growth, strengthen cus
 ## Appendix
 - **Data Source:** retail performance dataset.
 - **Tools Used:** Python (Pandas), Power BI for visualizations.
-- **Contact:** [alliaagamall@gmail.com](alliaagamall@gmail.com).
