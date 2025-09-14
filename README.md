@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 # Retail Performance Analysis
 
 ## Overview
@@ -38,4 +39,5 @@ Retail-Performance-Analysis-2025/
 - Python (Pandas) for data processing.
 - Power BI for visualizations.
 
-Feel free to contribute.
+## License
+This project is licensed under the [MIT License](LICENSE).
